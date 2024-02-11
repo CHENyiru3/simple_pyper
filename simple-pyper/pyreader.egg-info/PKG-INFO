@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyreader
+Version: 1.0
+Summary: A package for reading files in Python.
+Home-page: https://github.com/your_username/pyreader
+Author: Your Name
+Author-email: your_email@example.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: numpy
+Requires-Dist: pandas

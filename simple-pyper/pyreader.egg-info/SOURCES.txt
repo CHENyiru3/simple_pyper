@@ -1,0 +1,7 @@
+python_reader.py
+setup.py
+pyreader.egg-info/PKG-INFO
+pyreader.egg-info/SOURCES.txt
+pyreader.egg-info/dependency_links.txt
+pyreader.egg-info/requires.txt
+pyreader.egg-info/top_level.txt
