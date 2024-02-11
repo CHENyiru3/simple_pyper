@@ -1,4 +1,5 @@
-![https://img.shields.io/github/license/chenyiru3/simple-pyper]
+![GitHub License](https://img.shields.io/github/license/chenyiru3/simple-pyper)
+
 
 
 # simple_pyper
