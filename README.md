@@ -1,11 +1,21 @@
+![https://img.shields.io/github/license/chenyiru3/simple-pyper]
+
+
 # simple_pyper
 A open-source command line tool software to use python script easily! Just make it your personal convinent toolbox.
 
 Can download and try it with pip:
-```pip install simple-pyper```
+
+```shell
+pip install simple-pyper
+```
 
 and then in terminal:
-```pyper```
+
+```shell
+pyper
+```
+
 to enter the tool
 
 # Future
