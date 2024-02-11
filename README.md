@@ -30,8 +30,10 @@ Maybe you can try the script examples in ./pipelines file fold. There are (curre
 
 Simple scripts! But I hope this can inspire you to contribute to this project, just by make a simple but useful script! Let's try simple-pyper!
 
+The scripts and pipelines are in another repo: https://github.com/CHENyiru3/scripts_for_sp. I don't know how to let you download them sperately, so I just creat another repo.
+
 ```shell
-git clone https://github.com/CHENyiru3/simple_pyper/tree/7ed46930875e8f4da338e5c71f58819db70b13ea/pipelines
+git clone https://github.com/CHENyiru3/scripts_for_sp
 ```
 
 And then 'inspect' the pipelines fold to start.
